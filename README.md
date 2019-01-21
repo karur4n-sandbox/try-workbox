@@ -1,6 +1,5 @@
 # Try Workbox
 
-行ったこと
-
 - `./node_modules/.bin/workbox wizard`
-- `./node_modules/.bin/workbox generateSW`
+
+Netlify のビルド時に `npm run build` を行う
